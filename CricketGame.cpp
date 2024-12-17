@@ -1,11 +1,3 @@
-/************************************************************************************
-Course             :   CO2203 Object Oriented Programming
-Year               :   2023
-Name               :   T.G.J.K. Kumarasiri
-Index No           :   21_ENG_147
-Mini Project
-Date               :   25/09/2023
-*************************************************************************************/
 #include <iostream>
 #include <fstream>
 #include "Classes.h" //Classes header that has all the functions ans classes
